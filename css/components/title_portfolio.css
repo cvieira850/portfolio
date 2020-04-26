@@ -1,0 +1,9 @@
+.title_portfolio {
+  /*font-family: "Bungee", sans-serif;*/
+  font-family: "Comfortaa", cursive;
+  font-size: var(--size-big);
+  font-weight: bold;
+  color: var(--color-first);
+  word-wrap: break-word;
+  padding-top: var(--gap-small);
+}

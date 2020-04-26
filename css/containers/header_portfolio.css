@@ -1,0 +1,11 @@
+.header_portfolio {
+  text-align: center;
+}
+
+.header_portfolio > .title_portfolio {
+  margin-bottom: var(--gap-medium);
+}
+
+.header_portfolio > .content_portfolio {
+  margin-bottom: var(--gap-medium);
+}

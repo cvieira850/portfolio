@@ -1,0 +1,9 @@
+.main_portfolio {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.main_portfolio .card_portfolio {
+  margin-bottom: var(--gap-big);
+}

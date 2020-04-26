@@ -1,0 +1,20 @@
+.footer_portfolio {
+  padding-top: var(--gap-medium);
+  padding-bottom: var(--gap-medium);
+  margin-top: var(--gap-big);
+  text-align: center;
+  color: var(--color-second);
+  background-color: var(--color-first);
+  font-size: var(--size-small);
+}
+
+ .footer_portfolio .action {
+  /* display: block;  */
+  font-size: var(--size-medium);
+  margin-top: var(--gap-smaller);
+  color: var(--color-second);
+} 
+
+.footer_portfolio ._text {
+  margin-top: var(--gap-small);
+}

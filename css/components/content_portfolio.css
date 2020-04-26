@@ -1,0 +1,16 @@
+.content_portfolio {
+  font-size: var(--size-medium);
+  line-height: 1.4;
+}
+
+.content_portfolio > em {
+  text-decoration: underline;
+  text-decoration-color: var(--color-first);
+  text-decoration-thickness: 4px;
+}
+
+.content_portfolio > strong {
+  background-color: var(--color-first);
+  color: var(--color-base-light);
+  padding: calc(var(--gap-smaller) / 2) var(--gap-smaller);
+}
